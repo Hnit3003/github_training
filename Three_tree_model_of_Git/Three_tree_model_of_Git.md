@@ -1,4 +1,4 @@
-![Alt text](image.png)
+[<img src="./three_tree_model_of_git.png" width="600"/>](../media/shield_twisted_pair.png)
 
 # The working directory - First tree
 
